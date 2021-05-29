@@ -1,0 +1,12 @@
+step	1	Open The folder Named Java and open how to instal snd do what it tells you to do the do step 2
+
+
+
+
+
+
+
+step	2	First open file explorer and select "View", Then put a check in the ckeck box next to file extensions.
+step	2	Next rename your .jar file to Open.jar. EXAMPLE: I have Optifine.jar then i need to change it to Open.jar
+step	2	Put it into the folder named File.
+step	2	Then open the folder named File And Right click opener and click run as administrator.

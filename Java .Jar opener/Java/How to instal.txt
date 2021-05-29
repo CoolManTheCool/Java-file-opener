@@ -1,0 +1,15 @@
+Go to https://java.com/en/download/ and click agree and start free download and then it will download.
+When it is done move the file to the same directory as this .txt file. then open the .exe file and click YES.
+When you open the file DO NOT DO ANYTHING YET.
+Then at the bottem left corner put a check in the check box that is labled change destination folder.
+Then click instal, then click Change... the type the location of Java Jar Opener and for me it is 
+C:\Users\noahg\Desktop\Java .Jar opener. But then you need to add \java so that is is 
+C:\Users\noahg\Desktop\Java .Jar opener\java then click instal and you are done with this folder
+
+
+
+
+
+
+                                                       GOOD JOB YOU DID IT
+                                                   GIVE YOUR SELF A PAT ON THE BACK
